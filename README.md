@@ -10,8 +10,8 @@
 
 </br>
 </br>
-<div align="center">
-  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=layel52&show_icons=true&theme=chartreuse-dark">
+<div align="center" width="80%">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=layel52&show_icons=true&theme=chartreuse-dark">
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layel52&layout=compact&langs_count=7&theme=chartreuse-dark">
 </div>
 <div align="center">
