@@ -12,9 +12,10 @@
 </br>
 <div align="center">
   <img height="192px" src="https://github-readme-stats.vercel.app/api?username=layel52&show_icons=true&theme=chartreuse-dark">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layel52&layout=compact&langs_count=7&theme=chartreuse-dark">
 </div>
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Layel52&layout=compact&langs_count=7&theme=chartreuse-dark">
+  <img height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=Laetuus&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D">
 </div>
 </br>
 </br>
