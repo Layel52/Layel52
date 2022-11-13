@@ -4,7 +4,7 @@
 - 🏗️ Atualmente estou aprendendo JavaScript, com o objetivo de futuramente passar meu foco para React JS.
 
 ## Entre em contato comigo por:
-- 📫 E-mail: layelcode@gmail.com
+- 📫 E-mail: layelcodecontact@gmail.com
 - 👔 <a href="https://www.linkedin.com/in/joão-victor-carvalho-598a14220/">Meu Linkedin</a>
 - 🤿 <a href="https://twitter.com/Layelcode">Meu Twitter</a>
 
