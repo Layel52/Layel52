@@ -1,7 +1,7 @@
 <h1>👋 Olá mundo! Eu sou o João Victor Carvalho</h1>
 </br>
 
-- 🏗️ Atualmente estou aprendendo JavaScript, com o objetivo de futuramente passar meu foco para React JS.
+- 🏗️ Atualmente estou estudando Dart e Flutter.
 
 ## Entre em contato comigo por:
 - 📫 E-mail: layelcodecontact@gmail.com
