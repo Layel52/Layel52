@@ -1,12 +1,13 @@
 <h1>👋 Olá mundo! Eu sou o João Victor Carvalho</h1>
 </br>
 
-- 🏗️ Atualmente estou estudando Dart e Flutter.
+- 🏗️ Atualmente estou estudando ReactJS.
 
 ## Entre em contato comigo por:
 - 📫 E-mail: layelcodecontact@gmail.com
 - 👔 <a href="https://www.linkedin.com/in/joão-victor-carvalho-598a14220/">Meu Linkedin</a>
 - 🤿 <a href="https://twitter.com/Layelcode">Meu Twitter</a>
+- ☂️ <a href="http://www.layelcode.com/">Meu Site</a>
 
 </br>
 </br>
